@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app fetches user details from a json placeholder. 
+The users can be filtered through with a search box and clicking a particular user will take you 
+to a card where you can view the details of the clicked user.
+
 ## Available Scripts
 
 In the project directory, you can run:
